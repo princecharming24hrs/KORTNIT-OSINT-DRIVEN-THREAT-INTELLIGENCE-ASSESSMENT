@@ -2,8 +2,8 @@
 A Proactive and Preventive CyberSecurity Threat Intelligence project for an IT Service firm - Kortnit group
 
 
-Company Selection Brief 
-<br>
+# Company Selection Brief 
+
 Our world and business are generally run by information
 information meant to push the business further for greater productivity and profit 
 and also enhance decision-making through communication 
@@ -18,20 +18,33 @@ and also propose a process to mitigate against possible IOC incidents of comprom
 to avoid possible cyber exploits and future attacks on its business
 
 Kortnit Group
+
 Sector: Information Technology
+
 Primary Domain: kortnit.com
 
-Executive Summary
+# Executive Summary
 
 
-Scope and Methodology
+# Scope and Methodology
 
-Findings and Analysis
+# Tools
 
-Potential Threats
+Goggle Dorking 
+
+TheHarvester
+
+Hunter.io
+
+Maltego
+
+# Findings and Analysis
 
 
-Recommendations
+# Potential Threats
+
+
+# Recommendations
 
 Tactics
 
@@ -41,9 +54,5 @@ Ethical Considerations
 
 
 
-Tools
-Goggle Dorking 
-TheHarvester
-Hunter.io
-Maltego
+
 
