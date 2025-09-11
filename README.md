@@ -2,12 +2,11 @@
 A Proactive and Preventive CyberSecurity Threat Intelligence project for an IT Service firm - Kortnit group
 
 
-Our world and business is generally run by information
-information meant to push the business further for greater productivity ang profit 
-and also enhance decision making through communication 
-most company now used email, social media to achieve these.
-systems that are used also needs update and upgrades to meet up with the growing information traffic
-the traffic of information has also posed a threat to many business exposure to attacks, corruption and breach to company data , confidential documents and processes.
-these has costed millions of dollars in business closure, opportunity, clients and even law suits 
-the project was to carried out to show case a fictious study of a company kortnit group 
-so analyse its volunerbility and also profer process to mitigate against possible IOC incident of compromise detected with its infrastructure to avoid furture attacks
+Our world and business are generally run by information
+information meant to push the business further for greater productivity and profit 
+and also enhance decision-making through communication 
+Most companies now use email and social media to achieve these.
+Systems that are used also need updates and upgrades to keep up with the growing information traffic
+The information traffic has also posed a threat to many businesses' exposure to attacks, corruption, and breaches to company data, confidential documents, and processes.
+These have cost millions of dollars in business closure, opportunity, client deflection, and even lawsuits 
+The project was carried out on Kortnit group (kortnit.com) to analyse its vulnerability and also propose a process to mitigate against possible IOC incidents of compromise detected within its infrastructure to avoid possible cyber exploits and future attacks on its business
