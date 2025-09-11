@@ -1,4 +1,4 @@
-# KORTNIT OSINT THREAT INTELLIGENCE PROJECT
+# KORTNIT GROUP - OSINT Driven Threat Intelligence Assessment
 A Proactive and Preventive CyberSecurity Threat Intelligence project for an IT Service firm - Kortnit group
 
 
