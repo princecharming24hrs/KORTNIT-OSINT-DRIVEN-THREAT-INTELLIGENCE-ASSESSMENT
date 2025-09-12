@@ -23,30 +23,37 @@ Given Kortnit's position in the supply chain, these vulnerabilities pose risks n
 
 **Tools**
 
-**Goggle Dorking**
+**Google Dorking**
 
 [KORTNIT PROJECT KORTNIT 11 sept 2025_page-0010](https://github.com/princecharming24hrs/KORTNIT-OSINT-DRIVEN-THREAT-INTELLIGENCE-ASSESSMENT/blob/main/assets/KORTNIT%20PROJECT%20KORTNIT%2011%20sept%202025_page-0010.jpg)
+
+
+[KORTNIT PROJECT KORTNIT 11 sept 2025_page-0017](https://github.com/princecharming24hrs/KORTNIT-OSINT-DRIVEN-THREAT-INTELLIGENCE-ASSESSMENT/blob/main/assets/KORTNIT%20PROJECT%20K0ORTNIT%2011%20sept%202025_page-0017.jpg)
+
+
+**Hunter.io**
+
+[KORTNIT PROJECT KORTNIT 11 sept 2025_page-0020](https://github.com/princecharming24hrs/KORTNIT-OSINT-DRIVEN-THREAT-INTELLIGENCE-ASSESSMENT/blob/main/assets/KORTNIT%20PROJECT%20K0ORTNIT%2011%20sept%202025_page-0020.jpg)
+
+
+[KORTNIT PROJECT KORTNIT 11 sept 2025_page-0021](https://github.com/princecharming24hrs/KORTNIT-OSINT-DRIVEN-THREAT-INTELLIGENCE-ASSESSMENT/blob/main/assets/KORTNIT%20PROJECT%20K0ORTNIT%2011%20sept%202025_page-0021.jpg)
+
+
+**Maltego**
+
+[KORTNIT PROJECT KORTNIT 11 sept 2025_page-0028](https://github.com/princecharming24hrs/KORTNIT-OSINT-DRIVEN-THREAT-INTELLIGENCE-ASSESSMENT/blob/main/assets/KORTNIT%20PROJECT%20K0ORTNIT%2011%20sept%202025_page-0028.jpg)
+
+[KORTNIT PROJECT KORTNIT 11 sept 2025_page-0029](https://github.com/princecharming24hrs/KORTNIT-OSINT-DRIVEN-THREAT-INTELLIGENCE-ASSESSMENT/blob/main/assets/KORTNIT%20PROJECT%20K0ORTNIT%2011%20sept%202025_page-0029.jpg)
+
+[KORTNIT PROJECT KORTNIT 11 sept 2025_page-0031](https://github.com/princecharming24hrs/KORTNIT-OSINT-DRIVEN-THREAT-INTELLIGENCE-ASSESSMENT/blob/main/assets/KORTNIT%20PROJECT%20K0ORTNIT%2011%20sept%202025_page-0031.jpg)
 
 
 **TheHarvester**
 
 
-**Hunter.io**
+[KORTNIT PROJECT KORTNIT 11 sept 2025_page-0021](https://github.com/princecharming24hrs/KORTNIT-OSINT-DRIVEN-THREAT-INTELLIGENCE-ASSESSMENT/blob/main/assets/KORTNIT%20PROJECT%20K0ORTNIT%2011%20sept%202025_page-0021.jpg)
 
-
-**Maltego**
-
-
-
-
-
-
-
-
-
-
-
-
+[KORTNIT PROJECT KORTNIT 11 sept 2025_page-0021](https://github.com/princecharming24hrs/KORTNIT-OSINT-DRIVEN-THREAT-INTELLIGENCE-ASSESSMENT/blob/main/assets/KORTNIT%20PROJECT%20K0ORTNIT%2011%20sept%202025_page-0021.jpg)
 
 
 
@@ -59,7 +66,7 @@ We found significant leakage of sensitive company data across various platforms,
 Sensitive files, including those marked "confidential," Excel files potentially containing password information, and various configuration files (XML, CNF), were exposed and discoverable through search engines. 
 We also found that official documents leaked author details and creation timestamps through their metadata. 
 • Personnel Intelligence: 
-We were able to gather detailed employee information, organizational structure, and numerous employee email addresses from public sources like LinkedIn. 
+We gathered detailed employee information, organizational structure, and numerous employee email addresses from public sources like LinkedIn. 
 
 **• Infrastructure Details:** 
 
