@@ -1,24 +1,52 @@
 # KORTNIT GROUP - OSINT Driven Threat Intelligence Assessment
 A Proactive and Preventive CyberSecurity Threat Intelligence project for an IT Service firm - Kortnit group
 
-A Brief about Kortnit Group
-
 Sector: **Information Technology**
 
 Primary Domain: **kortnit.com**
 
-Kortnit Group is an IT Service firm that develops software for businesses to help manage their networks, systems, and information technology infrastructure. 
+Kortnit Group is an IT Service firm that develops software for businesses to help manage their networks, systems, and information technology infrastructure.
 
 It is headquartered in Massachusetts, with sales and product development offices in several locations in the United States and several other countries.
 
-Executive Summary
-Kortnit Project - Cybersecurity Assessment
+Executive Summary Kortnit Project - Cybersecurity Assessment
 
 **Project Overview**
 
 This executive summary presents findings from a comprehensive cybersecurity assessment of Kortnit, an IT services company. 
+
 The assessment employed multiple intelligence-gathering techniques to identify critical security exposures and potential attack vectors that could be exploited by sophisticated threat actors. 
+
 Given Kortnit's position in the supply chain, these vulnerabilities pose risks not only to the organization but also to its downstream clients.
+
+## **Scope and Methodology**
+
+**Tools**
+
+**Goggle Dorking**
+
+
+**TheHarvester**
+
+
+**Hunter.io**
+
+
+**Maltego**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 **Critical Findings**
 
@@ -35,7 +63,7 @@ We were able to gather detailed employee information, organizational structure, 
 
 Publicly available DNS and WHOIS data exposed internal network architecture, administrative contacts, and additional attack surfaces through subdomain enumeration.
 
-Here is a link to all the Documents on the Kortint.com site here [KORTNIT OSINT Threat Assessment](https://drive.google.com/file/d/1r-KLdSG9yALPLZJXL9zbjaZtcksr92Xi/view?usp=drive_link)
+A DETAILED PROCESS AND DOCUMENTATION OF THE CYBER THREAT INTELLIGENCE ASSESSMENT EXERCISE on the Kortint.com site is found here [KORTNIT OSINT Threat Assessment](https://drive.google.com/file/d/1r-KLdSG9yALPLZJXL9zbjaZtcksr92Xi/view?usp=drive_link)
 
 # **Critical Security Vulnerabilities** 
 In addition to information exposure, we discovered several vulnerabilities that create immediate security risks. 
@@ -87,7 +115,7 @@ Our assessment has found that the combination of exposed sensitive information, 
 
 we recommend immediate implementation of seven critical security controls: 
 
-Immediate Actions (0-30 days) 
+## **Immediate Actions (0-30 days)** 
 
 **Enhanced Monitoring:** 
 
@@ -96,7 +124,7 @@ Deploy advanced detection capabilities for unusual network activity and unauthor
 **Response Planning:** 
 Establish comprehensive procedures for detecting, containing, and recovering from security incidents 
 
-**Short-term Implementation (1-3 months)** 
+## **Short-term Implementation (1-3 months)** 
 
 **Zero Trust Architecture:** 
 
@@ -110,7 +138,7 @@ Stronger Vendor Verification:
 
 Establish comprehensive auditing processes for all software suppliers and third-party integrations 
 
-**Long-term Strategic Initiatives (3-6 months)**
+## **Long-term Strategic Initiatives (3-6 months)**
 
 **Secure Patching Procedures:** 
 
@@ -120,7 +148,7 @@ Implement validation processes for all software updates to prevent malicious cod
 
 Establish formal threat intelligence sharing relationships with industry peers and government agencies 
 
-**Business Impact and Next Steps**
+## **Business Impacts**
 
 **Financial Implications Direct Costs:** 
 
@@ -136,14 +164,14 @@ Liability for downstream client compromises Implementation Priority
 Given the identified vulnerabilities and threat landscape, we recommend treating this as a critical business priority requiring immediate executive attention and resource allocation. 
 The cost of implementing these security controls is significantly lower than the potential impact of a successful supply chain attack.
 
-**Conclusion**
+## **Conclusion**
 
  This assessment demonstrates that Kortnit faces immediate and significant cybersecurity risks that could impact both the organization and its clients. 
 The company's role as a trusted IT service provider amplifies these threats, as successful compromise could serve as a launching point for broader supply chain attacks. 
 Executive action is required immediately to implement the recommended security controls and reduce the organization's attack surface. 
 Delaying these improvements increases the likelihood of a security incident that could have far-reaching consequences for Kortnit and its clients.
 
-**Recommended Next Steps:** 
+## **Recommended Next Steps:** 
 
 Schedule immediate executive briefing to discuss resource allocation Engage cybersecurity experts to begin implementation of critical controls Develop communication plan for client notification of security improvements Establish timeline for quarterly security assessments moving forward
 
