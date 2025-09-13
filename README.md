@@ -59,8 +59,7 @@ Given Kortnit's position in the supply chain, these vulnerabilities pose risks n
 
 ![Image](https://github.com/princecharming24hrs/KORTNIT-OSINT-DRIVEN-THREAT-INTELLIGENCE-ASSESSMENT/blob/b853997089e6fdd69807571d59eb15bf668840d2/assets/img/KORTNIT%200037.png)
 
-![Image](https://github.com/princecharming24hrs/KORTNIT-OSINT-DRIVEN-THREAT-INTELLIGENCE-ASSESSMENT/blob/b853997089e6fdd69807571d59eb15bf668840d2/assets/img/KORTNIT%200037.png)
-
+![Image](https://github.com/princecharming24hrs/KORTNIT-OSINT-DRIVEN-THREAT-INTELLIGENCE-ASSESSMENT/blob/b853997089e6fdd69807571d59eb15bf668840d2/assets/img/KORTNIT%200038png)
 
 
 
@@ -69,15 +68,32 @@ Given Kortnit's position in the supply chain, these vulnerabilities pose risks n
 Our assessment identified two major areas of concern: extensive information exposure across multiple digital channels and several critical security vulnerabilities.
 Information Exposure 
 We found significant leakage of sensitive company data across various platforms, which could provide attackers with valuable intelligence. 
-• Document and File Exposure: 
+
+**• Document and File Exposure:**
 Sensitive files, including those marked "confidential," Excel files potentially containing password information, and various configuration files (XML, CNF), were exposed and discoverable through search engines. 
+
+![Image](https://github.com/princecharming24hrs/KORTNIT-OSINT-DRIVEN-THREAT-INTELLIGENCE-ASSESSMENT/blob/b853997089e6fdd69807571d59eb15bf668840d2/assets/img/KORTNIT%200034.png)
+
+
+![Image](https://github.com/princecharming24hrs/KORTNIT-OSINT-DRIVEN-THREAT-INTELLIGENCE-ASSESSMENT/blob/b853997089e6fdd69807571d59eb15bf668840d2/assets/img/KORTNIT%200046.png)
+
+
 We also found that official documents leaked author details and creation timestamps through their metadata. 
+
 • Personnel Intelligence: 
 We gathered detailed employee information, organizational structure, and numerous employee email addresses from public sources like LinkedIn. 
+
+![Image](https://github.com/princecharming24hrs/KORTNIT-OSINT-DRIVEN-THREAT-INTELLIGENCE-ASSESSMENT/blob/b853997089e6fdd69807571d59eb15bf668840d2/assets/img/KORTNIT%200032.png)
 
 **• Infrastructure Details:** 
 
 Publicly available DNS and WHOIS data exposed internal network architecture, administrative contacts, and additional attack surfaces through subdomain enumeration.
+
+![Image](https://github.com/princecharming24hrs/KORTNIT-OSINT-DRIVEN-THREAT-INTELLIGENCE-ASSESSMENT/blob/b853997089e6fdd69807571d59eb15bf668840d2/assets/img/KORTNIT%200040.png)
+
+
+![Image](https://github.com/princecharming24hrs/KORTNIT-OSINT-DRIVEN-THREAT-INTELLIGENCE-ASSESSMENT/blob/b853997089e6fdd69807571d59eb15bf668840d2/assets/img/KORTNIT%200041.png)
+
 
 A DETAILED PROCESS AND DOCUMENTATION OF THE CYBER THREAT INTELLIGENCE ASSESSMENT EXERCISE on the Kortint.com site is found here [KORTNIT OSINT Threat Assessment](https://drive.google.com/file/d/1r-KLdSG9yALPLZJXL9zbjaZtcksr92Xi/view?usp=drive_link)
 
