@@ -34,6 +34,8 @@ Given Kortnit's position in the supply chain, these vulnerabilities pose risks n
 
 ![Image](https://github.com/princecharming24hrs/KORTNIT-OSINT-DRIVEN-THREAT-INTELLIGENCE-ASSESSMENT/blob/b853997089e6fdd69807571d59eb15bf668840d2/assets/img/KORTNIT%200019.png)
 
+![Image](https://github.com/princecharming24hrs/KORTNIT-OSINT-DRIVEN-THREAT-INTELLIGENCE-ASSESSMENT/blob/b853997089e6fdd69807571d59eb15bf668840d2/assets/img/KORTNIT%200026.png)
+
 ![Image](https://github.com/princecharming24hrs/KORTNIT-OSINT-DRIVEN-THREAT-INTELLIGENCE-ASSESSMENT/blob/b853997089e6fdd69807571d59eb15bf668840d2/assets/img/KORTNIT%200027.png)
 
 
